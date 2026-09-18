@@ -1,5 +1,5 @@
 ---
-name: planning-large-projects
+name: planiuer
 description: >
   Produces deep, structured plans for large or complex projects: decomposes scope into
   phases and milestones, maps dependencies and critical path, surfaces risks and unknowns,

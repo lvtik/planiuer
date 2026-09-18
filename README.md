@@ -80,9 +80,12 @@ The installer finds every supported agent on your machine and copies the skill i
 
 | Agent | Installed to |
 | --- | --- |
-| Claude | `~/.claude/skills/planning-large-projects` |
-| Codex | `~/.codex/skills/planning-large-projects` |
-| OpenCode | `~/.config/opencode/skills/planning-large-projects` |
+| Claude | `~/.claude/skills/planiuer` |
+| Codex | `~/.codex/skills/planiuer` |
+| OpenCode | `~/.config/opencode/skills/planiuer` |
+| Hermes Agent | `~/.config/hermes/skills/planiuer` |
+| Pi | `~/.config/pi/skills/planiuer` |
+| DeepSeek Harness | `~/.config/deepseek-harness/skills/planiuer` |
 
 Agents you don't have are skipped. Re-running the installer overwrites the existing copy, so that's how you update.
 
