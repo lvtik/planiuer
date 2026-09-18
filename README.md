@@ -2,7 +2,7 @@
 
 **A planning skill for AI coding agents.** It teaches your agent to stop guessing and produce a real plan before it writes a single line of code.
 
-Install it once, then ask Claude, Codex, or OpenCode to plan something big. Instead of a vague wall of bullet points, you get a `PLAN.md` you can actually act on.
+Install it once, then ask Claude, Codex, Pi, Deepseek Harness, Hermes Agent, or OpenCode to plan something big. Instead of a vague wall of bullet points, you get a `PLAN.md` you can actually act on.
 
 ---
 
